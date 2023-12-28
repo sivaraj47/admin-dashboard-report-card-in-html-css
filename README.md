@@ -1,1 +1,3 @@
-# admin-dashboard-report-card-in-html-css
+# admin-dashboard-report-card-in-html-css, Professional Report Dashboard Card Design Html,Simple card design html CSS, Card design html css codepen, html, css card layout responsive, Card design html css free, Card design html css w3schools, #cardhtmlcss, #codingwithssr,#code,#with,#ssr,#codessr,#codingssr,#htmlcssproject,#sivasundararajdesigns,#html,#css#flex,#flexcarddesign,#sivasundararajdesign,#webdesign| #carddesign,#reportcarddesign,#uniquecarddesign, #responsivecarddesign, #admincarddesign, #carddesigns, #uicarddesign, #trendingcarddesign|
+
+![image](https://github.com/sivaraj47/admin-dashboard-report-card-in-html-css/assets/9676262/862cd1c1-9125-46c3-91b2-2bf0f7cf36b0)
